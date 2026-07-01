@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR5i0097/CK-KZ-jye/v1
+canonical_location: https://kanripo.org/bkk/KR5i0097/CK-KZ-jye/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三壇圓滿天仙大戒略說
+  date: '2015-08-29 17:59:10.125095'
+  source:
+    repository: kanripo
+    path: KR5i0097
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ-jye
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0097_001-CK-KZ-jye.yaml, hash: 'sha256:f8f151189b869e8862dc9aab91fd4b2d079475bfa8d6a8b6f58b016dee570754'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0097_001-CK-KZ-jye.markers.yaml, hash: 'sha256:497822cc28a3921e3d0859a01383ec67b648ba81d46025d9c3872a20ec0afce1'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0097_01p001a
+    span:
+    - body
+    - 0
+    - 9603
+  label: juan 001
+  type: section
+  level: 1
+hash: sha256:40e1101aee6d82f18961f728adf231e68730c94b69c9114ee3a4f3c4705864be
